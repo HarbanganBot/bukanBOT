@@ -13,7 +13,7 @@ const instagram = 'https://instagram.com/h_aja324'; // JANGAN UBAH-UBAH INFO!!!
 const nomer = 'Wa.me/+6289652455096'; // JANGAN UBAH-UBAH INFO!!!
 const aktif = 'Suka suka gua '; // JANGAN UBAH-UBAH INFO!!!
 const groupwhatsapp = 'TidakAda'; // JANGAN UBAH-UBAH INFO!!!
-const youtube = ; 'Tidak ada'; // JANGAN UBAH-UBAH INFO!!!
+const youtube = ; 'https://youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg'; // JANGAN UBAH-UBAH INFO!!!
 //A187ID
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
